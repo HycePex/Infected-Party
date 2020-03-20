@@ -1,2 +1,1 @@
-
-sprite_index = sprite10
+game_restart();

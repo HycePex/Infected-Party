@@ -16,6 +16,7 @@ else
  if (tiro) {
  var t = instance_create_layer(x,y, layer, obj_tiro);
  t.speed = 7;
+ t.dano = 1;
  t.direction = 0;
  }
 // Movimento
