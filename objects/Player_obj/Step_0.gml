@@ -14,7 +14,7 @@ else
  
  var tiro = keyboard_check_pressed(vk_right);
  if (tiro) {
- var t = instance_create_layer(x,y + 80, layer, obj_tiro);
+ var t = instance_create_layer(x,y + 10, layer, obj_tiro);
  t.speed = 7;
  t.dano = 1;
  t.direction = 0;

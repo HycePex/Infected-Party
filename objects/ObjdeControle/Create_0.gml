@@ -1,4 +1,4 @@
-intervalo = room_speed * 0.8;
+intervalo = room_speed * 3;
 
 Contador = 0;
 

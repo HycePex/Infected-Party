@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0383805c-4104-44af-8973-3abaa38089fb",
-            "Value": {
-                "id": "db29a646-e846-4ae7-b34b-9b43f132fd81",
-                "resourcePath": "objects\\colorido_obj\\colorido_obj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "06ecefd1-e72e-4d76-af34-3cc1d97510ed",
             "Value": {
                 "id": "026bec12-2a05-4890-bf43-7fb796175e84",
@@ -60,6 +52,22 @@
                 "id": "3f3f9a6c-a460-4a0e-a3c0-03c90c069a1a",
                 "resourcePath": "sprites\\terra_spr\\terra_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b2739f8-2766-42ec-b2b2-638c1ee247a4",
+            "Value": {
+                "id": "3203fe00-6c28-480d-8ba5-8d311969e663",
+                "resourcePath": "sprites\\spr_mesa\\spr_mesa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0edce398-5878-4871-a754-caffb6ae4a83",
+            "Value": {
+                "id": "2f600071-1bca-4297-add6-f8bc0eb78b97",
+                "resourcePath": "sounds\\sd_jogo\\sd_jogo.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "1e405c37-04d9-47df-bb81-5a626c80145d",
+            "Value": {
+                "id": "b53f55dd-8fc4-41fe-932e-b06d5efcd939",
+                "resourcePath": "objects\\obj_som\\obj_som.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22567365-d5d3-466d-a83b-2b86d3f42eda",
             "Value": {
                 "id": "b5da8c4d-a08b-4de0-b042-3e046f46b326",
@@ -107,14 +123,6 @@
             "Value": {
                 "id": "922c6d2c-dc06-4c32-a17b-b6083be891be",
                 "resourcePath": "sprites\\spr_vida\\spr_vida.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "33b75b06-3e5b-4f60-8741-f032a4e6c2d6",
-            "Value": {
-                "id": "95eb772d-af3c-4752-afd1-434bc77a7b14",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +274,7 @@
             "Key": "8a5bbf04-4032-4682-aead-5c69b496939c",
             "Value": {
                 "id": "0cc0b4c6-b5eb-42f6-b2aa-48de73fde0dd",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\spr_espirro\\spr_espirro.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -300,6 +308,14 @@
                 "id": "a1ce546e-6c23-4740-b17b-fc68848eed43",
                 "resourcePath": "views\\97ac7dfd-a1c3-4c1d-8863-4294004baa0d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a1695288-68d5-4041-8b98-2da76f941ea8",
+            "Value": {
+                "id": "a118d5dd-fc80-4f0e-9e8b-9bfcda574956",
+                "resourcePath": "sprites\\spr_explosion\\spr_explosion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +407,14 @@
             }
         },
         {
+            "Key": "e2fa782a-9daa-4a3e-b6a5-a8eb9a82d53e",
+            "Value": {
+                "id": "a3160f5e-72d1-47ee-bd56-253306f85d65",
+                "resourcePath": "objects\\obj_explosion\\obj_explosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "8dc7eab6-9100-469c-a5c3-c4a1523b5466",
@@ -404,6 +428,14 @@
                 "id": "79bd1bd2-4013-4271-a982-5c40995003d2",
                 "resourcePath": "views\\e8dade7c-93df-4237-ad47-b7621e774c80.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e94c81b9-4e4c-4152-ad75-66979e48d21a",
+            "Value": {
+                "id": "67f3792d-0f66-4ebf-8317-6aecfc0c2d5f",
+                "resourcePath": "objects\\obj_mesa\\obj_mesa.yy",
+                "resourceType": "GMObject"
             }
         },
         {

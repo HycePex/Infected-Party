@@ -1,0 +1,1 @@
+audio_play_sound(sd_jogo, 1000, true);
